@@ -1,8 +1,7 @@
 # moviez
 
 ## Screenshot
-<img src="/screenshot/Screenshot1.jpg" width="200"/>
-<img src="/screenshot/Screenshot2.jpg" width="200"/>
+<img src="/screenshot/Screenshot_1.jpg" width="200"/>   <img src="/screenshot/Screenshot_2.jpg" width="200"/>
 
 ## Getting Started
 
